@@ -17,7 +17,7 @@
 # Wenn du diesen Code ausführst, wirst du einen Fehler sehen.
 # Er bedeutet, dass das pypdf-Paket noch nicht installiert ist.
 # Um es zu installieren:
-# 1. Hovere über "PdfReader" in der Zeile 39 (der Text mit der roten Wellenlinie)
+# 1. Hovere über "PdfReader" in der Zeile 41 (der Text mit der roten Wellenlinie)
 # 2. Rechtsklick auf "PdfReader"
 # 3. Klicke auf "Show Context Actions"
 # 4. Klicke auf "Install package pypdf" (oder ähnlich)
